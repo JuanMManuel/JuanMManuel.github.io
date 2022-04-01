@@ -1,0 +1,146 @@
+*{
+    background-color: #FFD285;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header{
+    position: sticky;
+    top: 0;
+    color: black;
+    text-align: center;
+    font-size: large;
+    font-style: italic;
+}
+.presentacion{
+    text-align: left;
+}
+img{
+    border-radius: 100px;
+    width: 35%;
+}
+
+.informacionGeneral{
+    background-color: #FFE2E0;
+    width: 100%;
+    margin-bottom: 10px;
+    
+    
+}
+
+.informacion{
+    background-color: #FFE2E0;
+    width: 100%;
+    text-align: center;
+    margin: auto;
+    margin-bottom: 10px;
+    
+    
+    
+
+}
+p{
+    background-color: #FFE2E0;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+
+    
+    
+.perfilPersonal{
+    text-align: center;
+    background-color: #FFE2E0;
+    width: 100%;
+    margin-bottom: 10px;
+    
+    
+}
+.descripcion{
+    text-align: center;
+    background-color: #FFE2E0;
+    
+}
+
+.perfilProfesional{
+    text-align: center;
+    background-color: #FFE2E0;
+    width: 100%;
+    margin-bottom: 10px;
+    
+
+}
+.subtitulo{
+    text-align: center;
+    background-color: #FFE2E0;
+    font-family: Verdana;
+}
+.experiencia{
+    text-align: center;
+    background-color: #FFE2E0;
+    width: 100%;
+    margin-bottom: 10px;
+}
+.skills{
+    text-align: center;
+    background-color: #FFE2E0;
+    width: 100%;
+    margin-bottom: 10px;
+    
+}
+.citas{
+    background-color: #FFE2E0;
+}
+span{
+    background-color: #FFE2E0;
+}
+input{
+    background-color: #FFE2E0;
+}
+.borrar{
+    background: transparent;
+    -webkit-border-radius: 10;
+    -moz-border-radius: 10;
+     border-radius: 10px;
+    text-shadow: 3px 2px 1px #9daef5;
+    -webkit-box-shadow: 6px 5px 24px #666666;
+    -moz-box-shadow: 6px 5px 24px #666666;
+    box-shadow: 6px 5px 24px #666666;
+    font-family: Arial;
+    color: #fafafa;
+    font-size: 10px;
+    padding: 10px;
+    text-decoration: none;
+}
+.borrar:hover {
+    background-color: rgb(192, 17, 17);
+    color: black;
+}
+
+.programarCita{
+    background: transparent;
+    -webkit-border-radius: 10;
+    -moz-border-radius: 10;
+     border-radius: 10px;
+    text-shadow: 3px 2px 1px #9daef5;
+    -webkit-box-shadow: 6px 5px 24px #666666;
+    -moz-box-shadow: 6px 5px 24px #666666;
+    box-shadow: 6px 5px 24px #666666;
+    font-family: Arial;
+    color: #fafafa;
+    font-size: 10px;
+    padding: 4px;
+    text-decoration: none;
+}
+
+.programarCita:hover{
+    background-color: rgb(20, 168, 20);
+    color: black;
+}
+
+.nombre{
+    font-family: cursive;
+    
+}
+
+

@@ -1,0 +1,127 @@
+*{
+    background-color: #0AA4FC;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header{
+    position: sticky;
+    top: 0;
+    color: black;
+    text-align: center;
+    
+}
+img{
+    border-radius: 10px;
+    width: 35%;
+}
+.informacionGeneral{
+    background-color: #FFF385;
+    width: 100%;
+    margin-bottom: 10px;
+}
+.presentacion{
+    text-align: center;
+}
+
+.informacion{
+    background-color: #FFF385;
+    width: 100%;
+    text-align: center;
+    margin: auto;
+    margin-bottom: 10px;
+    
+    
+    
+
+}
+p{
+    background-color: #FFF385;
+    
+}
+
+
+    
+    
+.perfilPersonal{
+    text-align: center;
+    background-color: #FFF385;
+    width: 100%;
+    margin-bottom: 10px;
+    
+    
+}
+.descripcion{
+    text-align: center;
+    background-color: #FFF385;
+    
+}
+
+.perfilProfesional{
+    text-align: center;
+    background-color: #FFF385;
+    width: 100%;
+    margin-bottom: 10px;
+    
+
+}
+.subtitulo{
+    text-align: center;
+    background-color: #FFF385;
+}
+.experiencia{
+    text-align: center;
+    background-color: #FFF385;
+    width: 100%;
+    margin-bottom: 10px;
+}
+.skills{
+    text-align: center;
+    background-color: #FFF385;
+    width: 100%;
+    margin-bottom: 10px;
+    
+}
+.citas{
+    background-color: #85B6FF;
+}
+span{
+    background-color: #85B6FF;
+}
+input{
+    background-color: #85B6FF;
+}
+
+.borrar{
+    background: red;
+    -webkit-border-radius: 10;
+    -moz-border-radius: 10;
+     border-radius: 10px;
+    text-shadow: 3px 2px 1px #9daef5;
+    -webkit-box-shadow: 6px 5px 24px #666666;
+    -moz-box-shadow: 6px 5px 24px #666666;
+    box-shadow: 6px 5px 24px #666666;
+    font-family: Arial;
+    color: #fafafa;
+    font-size: 10px;
+    padding: 4px;
+    text-decoration: none;
+}
+
+.programarCita{
+    background: green;
+    -webkit-border-radius: 10;
+    -moz-border-radius: 10;
+     border-radius: 10px;
+    text-shadow: 3px 2px 1px #9daef5;
+    -webkit-box-shadow: 6px 5px 24px #666666;
+    -moz-box-shadow: 6px 5px 24px #666666;
+    box-shadow: 6px 5px 24px #666666;
+    font-family: Arial;
+    color: #fafafa;
+    font-size: 10px;
+    padding: 4px;
+    text-decoration: none;
+}
+
